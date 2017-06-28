@@ -1,1 +1,6 @@
+<<<<<<< dev1
 hahaha
+=======
+test1
+
+>>>>>>> local
